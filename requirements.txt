@@ -1,0 +1,10 @@
+*** Python 3 ** 
+
+Libraries- 
+
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+regular expression
